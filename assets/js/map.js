@@ -6,7 +6,7 @@
 function initMap() {
 // Styles a map in night mode.
 var map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 25.762055, lng: -80.191802 },
+    center: { lat: 24.369513119002633, lng: 88.61051758411016 },
     zoom: 12,
     styles: [
     { elementType: "geometry", stylers: [{ color: "#242f3e" }] },
@@ -91,9 +91,9 @@ var map = new google.maps.Map(document.getElementById("map"), {
 });
 
 var marker = new google.maps.Marker({
-    position: { lat: 25.762055, lng: -80.191802 },
+    position: { lat: 24.369513119002633, lng: 88.61051758411016 },
     map: map,
-    title: "Bangalore"
+    title: "Md. Saif Zaman"
 });
 }
 

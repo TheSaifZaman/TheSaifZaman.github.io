@@ -1,11 +1,4 @@
-/*-----------------------------------------------------------
-* Template Name    : Justin - Personal Portfolio
-* Author           : beingeorge
-* Version          : 1.0
-* Created          : Oct 2019
-* File Description : Main Js file of the template
-*------------------------------------------------------------
-*/
+
 
 ! function($) {
     "use strict";
