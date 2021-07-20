@@ -1,0 +1,48 @@
+[
+	{
+		"title": "Bachelor of Science in Health Science (BS-HS)",
+		"achievements": [
+			"UoPeople Scholarship Program"
+		],
+		"disclaimer": "This is an online based undergaduate program. That is why it has the flexibility of time which will not hamper my work life in any way.",
+		"duration": "Sep, 2021 - Present | University of The People, USA",
+		"learn": ""
+	},
+	{
+		"title": "AWS Machine Learning Foundations Nanodegree Program",
+		"achievements": [
+			"AWS Machine Learning Scholarship Program"
+		],
+		"disclaimer": "",
+		"duration": "Jul, 2021 - Present | AWS Machine Learning Foundation",
+		"learn": ""
+	},
+	{
+		"title": "B. Sc. Engg. in Computer Science & Engineering",
+		"achievements": [],
+		"disclaimer": "",
+		"duration": "Jan, 2016 - Apr, 2021 | Rajshai University of Engineering & Technology, Rajshahi",
+		"learn": "This undergraduate degree program provides a broad education in all core areas of Computer Science & Engineering, while allowing individuals the flexibility to pursue individual interests in higher-level areas. The core areas include programming, data structures and algorithms, operating systems and software engineering, database, networking, systems software, computer graphics, image processing, medical imaging, artificial intelligence, computer vision, computer security, and theoretical computer science."
+	},
+	{
+		"title": "Higher-Secondary School Certificate in Science",
+		"achievements": [
+			"5th National Physic Olympiad - ( Were in Top 20 - in Regional Level)",
+			"Trained School level Physics Olympiad Students."
+		],
+		"disclaimer": "",
+		"duration": "Jul, 2013 - Jun, 2015 | New Govt. Degree College, Rajshahi",
+		"learn": ""
+	},
+	{
+		"title": "Secondary School Certificate in Science",
+		"achievements": [
+			"4th National Physic Olympiad - ( Were in Top 20 - in National Level)",
+			"3rd National Physic Olympiad - ( Were in Top 20 - in Regional Level)",
+			"National Science Olympiad - ( Were in Top 20 - in Regional Level)"
+		],
+		"disclaimer": "",
+		"duration": "Jan, 2005 - Jun, 2013 | Govt. Laboratory High School, Rajshahi",
+		"learn": ""
+	}
+]
